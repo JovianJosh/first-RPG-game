@@ -1,0 +1,2517 @@
+('C:\\python RPG\\RPGgame\\codes\\build\\battle\\PYZ-00.pyz',
+ [('RPGchar', 'C:\\python RPG\\RPGgame\\codes\\RPGchar.py', 'PYMODULE'),
+  ('__future__',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\__future__.py',
+   'PYMODULE'),
+  ('_aix_support',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_aix_support.py',
+   'PYMODULE'),
+  ('_colorize',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_colorize.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_compression.py',
+   'PYMODULE'),
+  ('_ios_support',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_ios_support.py',
+   'PYMODULE'),
+  ('_opcode_metadata',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_opcode_metadata.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_py_abc.py',
+   'PYMODULE'),
+  ('_pydatetime',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_pydatetime.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('_pyrepl',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_pyrepl\\__init__.py',
+   'PYMODULE'),
+  ('_pyrepl.pager',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_pyrepl\\pager.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_strptime.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_threading_local.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\argparse.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ast.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\base64.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\bisect.py',
+   'PYMODULE'),
+  ('boss', 'C:\\python RPG\\RPGgame\\codes\\boss.py', 'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\bz2.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\calendar.py',
+   'PYMODULE'),
+  ('colorsys',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\colorsys.py',
+   'PYMODULE'),
+  ('configparser',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\configparser.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\contextlib.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\contextvars.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\copy.py',
+   'PYMODULE'),
+  ('csv',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\csv.py',
+   'PYMODULE'),
+  ('ctypes',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._aix',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ctypes\\_aix.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\dataclasses.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\datetime.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\decimal.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\dis.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\utils.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\fnmatch.py',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\fractions.py',
+   'PYMODULE'),
+  ('ftplib',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ftplib.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\getopt.py',
+   'PYMODULE'),
+  ('getpass',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\getpass.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\gettext.py',
+   'PYMODULE'),
+  ('glob',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\glob.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\gzip.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\hashlib.py',
+   'PYMODULE'),
+  ('html',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\html\\entities.py',
+   'PYMODULE'),
+  ('http',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\http\\client.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http.server',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\http\\server.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._abc',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\_abc.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py',
+   'PYMODULE'),
+  ('importlib.metadata._adapters',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.metadata._collections',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib.metadata._functools',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib.metadata._itertools',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.metadata._meta',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\_meta.py',
+   'PYMODULE'),
+  ('importlib.metadata._text',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\_text.py',
+   'PYMODULE'),
+  ('importlib.readers',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\readers.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\resources\\__init__.py',
+   'PYMODULE'),
+  ('importlib.resources._adapters',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\resources\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.resources._common',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\resources\\_common.py',
+   'PYMODULE'),
+  ('importlib.resources._functional',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\resources\\_functional.py',
+   'PYMODULE'),
+  ('importlib.resources._itertools',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\resources\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.resources.abc',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\resources\\abc.py',
+   'PYMODULE'),
+  ('importlib.resources.readers',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\resources\\readers.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('inspect',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\inspect.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ipaddress.py',
+   'PYMODULE'),
+  ('json',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('keyboard',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\keyboard\\__init__.py',
+   'PYMODULE'),
+  ('keyboard._canonical_names',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\keyboard\\_canonical_names.py',
+   'PYMODULE'),
+  ('keyboard._darwinkeyboard',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\keyboard\\_darwinkeyboard.py',
+   'PYMODULE'),
+  ('keyboard._generic',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\keyboard\\_generic.py',
+   'PYMODULE'),
+  ('keyboard._keyboard_event',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\keyboard\\_keyboard_event.py',
+   'PYMODULE'),
+  ('keyboard._nixcommon',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\keyboard\\_nixcommon.py',
+   'PYMODULE'),
+  ('keyboard._nixkeyboard',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\keyboard\\_nixkeyboard.py',
+   'PYMODULE'),
+  ('keyboard._winkeyboard',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\keyboard\\_winkeyboard.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\lzma.py',
+   'PYMODULE'),
+  ('markdown_it',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\markdown_it\\__init__.py',
+   'PYMODULE'),
+  ('markdown_it._compat',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\markdown_it\\_compat.py',
+   'PYMODULE'),
+  ('markdown_it._punycode',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\markdown_it\\_punycode.py',
+   'PYMODULE'),
+  ('markdown_it.common',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\markdown_it\\common\\__init__.py',
+   'PYMODULE'),
+  ('markdown_it.common.entities',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\markdown_it\\common\\entities.py',
+   'PYMODULE'),
+  ('markdown_it.common.html_blocks',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\markdown_it\\common\\html_blocks.py',
+   'PYMODULE'),
+  ('markdown_it.common.html_re',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\markdown_it\\common\\html_re.py',
+   'PYMODULE'),
+  ('markdown_it.common.normalize_url',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\markdown_it\\common\\normalize_url.py',
+   'PYMODULE'),
+  ('markdown_it.common.utils',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\markdown_it\\common\\utils.py',
+   'PYMODULE'),
+  ('markdown_it.helpers',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\markdown_it\\helpers\\__init__.py',
+   'PYMODULE'),
+  ('markdown_it.helpers.parse_link_destination',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\markdown_it\\helpers\\parse_link_destination.py',
+   'PYMODULE'),
+  ('markdown_it.helpers.parse_link_label',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\markdown_it\\helpers\\parse_link_label.py',
+   'PYMODULE'),
+  ('markdown_it.helpers.parse_link_title',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\markdown_it\\helpers\\parse_link_title.py',
+   'PYMODULE'),
+  ('markdown_it.main',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\markdown_it\\main.py',
+   'PYMODULE'),
+  ('markdown_it.parser_block',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\markdown_it\\parser_block.py',
+   'PYMODULE'),
+  ('markdown_it.parser_core',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\markdown_it\\parser_core.py',
+   'PYMODULE'),
+  ('markdown_it.parser_inline',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\markdown_it\\parser_inline.py',
+   'PYMODULE'),
+  ('markdown_it.presets',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\markdown_it\\presets\\__init__.py',
+   'PYMODULE'),
+  ('markdown_it.presets.commonmark',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\markdown_it\\presets\\commonmark.py',
+   'PYMODULE'),
+  ('markdown_it.presets.default',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\markdown_it\\presets\\default.py',
+   'PYMODULE'),
+  ('markdown_it.presets.zero',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\markdown_it\\presets\\zero.py',
+   'PYMODULE'),
+  ('markdown_it.renderer',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\markdown_it\\renderer.py',
+   'PYMODULE'),
+  ('markdown_it.ruler',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\markdown_it\\ruler.py',
+   'PYMODULE'),
+  ('markdown_it.rules_block',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\markdown_it\\rules_block\\__init__.py',
+   'PYMODULE'),
+  ('markdown_it.rules_block.blockquote',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\markdown_it\\rules_block\\blockquote.py',
+   'PYMODULE'),
+  ('markdown_it.rules_block.code',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\markdown_it\\rules_block\\code.py',
+   'PYMODULE'),
+  ('markdown_it.rules_block.fence',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\markdown_it\\rules_block\\fence.py',
+   'PYMODULE'),
+  ('markdown_it.rules_block.heading',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\markdown_it\\rules_block\\heading.py',
+   'PYMODULE'),
+  ('markdown_it.rules_block.hr',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\markdown_it\\rules_block\\hr.py',
+   'PYMODULE'),
+  ('markdown_it.rules_block.html_block',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\markdown_it\\rules_block\\html_block.py',
+   'PYMODULE'),
+  ('markdown_it.rules_block.lheading',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\markdown_it\\rules_block\\lheading.py',
+   'PYMODULE'),
+  ('markdown_it.rules_block.list',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\markdown_it\\rules_block\\list.py',
+   'PYMODULE'),
+  ('markdown_it.rules_block.paragraph',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\markdown_it\\rules_block\\paragraph.py',
+   'PYMODULE'),
+  ('markdown_it.rules_block.reference',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\markdown_it\\rules_block\\reference.py',
+   'PYMODULE'),
+  ('markdown_it.rules_block.state_block',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\markdown_it\\rules_block\\state_block.py',
+   'PYMODULE'),
+  ('markdown_it.rules_block.table',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\markdown_it\\rules_block\\table.py',
+   'PYMODULE'),
+  ('markdown_it.rules_core',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\markdown_it\\rules_core\\__init__.py',
+   'PYMODULE'),
+  ('markdown_it.rules_core.block',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\markdown_it\\rules_core\\block.py',
+   'PYMODULE'),
+  ('markdown_it.rules_core.inline',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\markdown_it\\rules_core\\inline.py',
+   'PYMODULE'),
+  ('markdown_it.rules_core.linkify',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\markdown_it\\rules_core\\linkify.py',
+   'PYMODULE'),
+  ('markdown_it.rules_core.normalize',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\markdown_it\\rules_core\\normalize.py',
+   'PYMODULE'),
+  ('markdown_it.rules_core.replacements',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\markdown_it\\rules_core\\replacements.py',
+   'PYMODULE'),
+  ('markdown_it.rules_core.smartquotes',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\markdown_it\\rules_core\\smartquotes.py',
+   'PYMODULE'),
+  ('markdown_it.rules_core.state_core',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\markdown_it\\rules_core\\state_core.py',
+   'PYMODULE'),
+  ('markdown_it.rules_core.text_join',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\markdown_it\\rules_core\\text_join.py',
+   'PYMODULE'),
+  ('markdown_it.rules_inline',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\markdown_it\\rules_inline\\__init__.py',
+   'PYMODULE'),
+  ('markdown_it.rules_inline.autolink',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\markdown_it\\rules_inline\\autolink.py',
+   'PYMODULE'),
+  ('markdown_it.rules_inline.backticks',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\markdown_it\\rules_inline\\backticks.py',
+   'PYMODULE'),
+  ('markdown_it.rules_inline.balance_pairs',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\markdown_it\\rules_inline\\balance_pairs.py',
+   'PYMODULE'),
+  ('markdown_it.rules_inline.emphasis',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\markdown_it\\rules_inline\\emphasis.py',
+   'PYMODULE'),
+  ('markdown_it.rules_inline.entity',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\markdown_it\\rules_inline\\entity.py',
+   'PYMODULE'),
+  ('markdown_it.rules_inline.escape',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\markdown_it\\rules_inline\\escape.py',
+   'PYMODULE'),
+  ('markdown_it.rules_inline.fragments_join',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\markdown_it\\rules_inline\\fragments_join.py',
+   'PYMODULE'),
+  ('markdown_it.rules_inline.html_inline',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\markdown_it\\rules_inline\\html_inline.py',
+   'PYMODULE'),
+  ('markdown_it.rules_inline.image',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\markdown_it\\rules_inline\\image.py',
+   'PYMODULE'),
+  ('markdown_it.rules_inline.link',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\markdown_it\\rules_inline\\link.py',
+   'PYMODULE'),
+  ('markdown_it.rules_inline.linkify',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\markdown_it\\rules_inline\\linkify.py',
+   'PYMODULE'),
+  ('markdown_it.rules_inline.newline',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\markdown_it\\rules_inline\\newline.py',
+   'PYMODULE'),
+  ('markdown_it.rules_inline.state_inline',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\markdown_it\\rules_inline\\state_inline.py',
+   'PYMODULE'),
+  ('markdown_it.rules_inline.strikethrough',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\markdown_it\\rules_inline\\strikethrough.py',
+   'PYMODULE'),
+  ('markdown_it.rules_inline.text',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\markdown_it\\rules_inline\\text.py',
+   'PYMODULE'),
+  ('markdown_it.token',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\markdown_it\\token.py',
+   'PYMODULE'),
+  ('markdown_it.utils',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\markdown_it\\utils.py',
+   'PYMODULE'),
+  ('mdurl',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\mdurl\\__init__.py',
+   'PYMODULE'),
+  ('mdurl._decode',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\mdurl\\_decode.py',
+   'PYMODULE'),
+  ('mdurl._encode',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\mdurl\\_encode.py',
+   'PYMODULE'),
+  ('mdurl._format',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\mdurl\\_format.py',
+   'PYMODULE'),
+  ('mdurl._parse',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\mdurl\\_parse.py',
+   'PYMODULE'),
+  ('mdurl._url',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\mdurl\\_url.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\mimetypes.py',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\netrc.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\nturl2path.py',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\numbers.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\opcode.py',
+   'PYMODULE'),
+  ('pathlib',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pathlib\\__init__.py',
+   'PYMODULE'),
+  ('pathlib._abc',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pathlib\\_abc.py',
+   'PYMODULE'),
+  ('pathlib._local',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pathlib\\_local.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pickle.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pkgutil.py',
+   'PYMODULE'),
+  ('platform',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\platform.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pprint.py',
+   'PYMODULE'),
+  ('pty',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pty.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\py_compile.py',
+   'PYMODULE'),
+  ('pydoc',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pydoc.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pygments',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\__init__.py',
+   'PYMODULE'),
+  ('pygments.console',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\console.py',
+   'PYMODULE'),
+  ('pygments.filter',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\filter.py',
+   'PYMODULE'),
+  ('pygments.filters',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\filters\\__init__.py',
+   'PYMODULE'),
+  ('pygments.formatter',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\formatter.py',
+   'PYMODULE'),
+  ('pygments.formatters',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\formatters\\__init__.py',
+   'PYMODULE'),
+  ('pygments.formatters._mapping',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\formatters\\_mapping.py',
+   'PYMODULE'),
+  ('pygments.formatters.bbcode',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\formatters\\bbcode.py',
+   'PYMODULE'),
+  ('pygments.formatters.groff',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\formatters\\groff.py',
+   'PYMODULE'),
+  ('pygments.formatters.html',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\formatters\\html.py',
+   'PYMODULE'),
+  ('pygments.formatters.img',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\formatters\\img.py',
+   'PYMODULE'),
+  ('pygments.formatters.irc',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\formatters\\irc.py',
+   'PYMODULE'),
+  ('pygments.formatters.latex',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\formatters\\latex.py',
+   'PYMODULE'),
+  ('pygments.formatters.other',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\formatters\\other.py',
+   'PYMODULE'),
+  ('pygments.formatters.pangomarkup',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\formatters\\pangomarkup.py',
+   'PYMODULE'),
+  ('pygments.formatters.rtf',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\formatters\\rtf.py',
+   'PYMODULE'),
+  ('pygments.formatters.svg',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\formatters\\svg.py',
+   'PYMODULE'),
+  ('pygments.formatters.terminal',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\formatters\\terminal.py',
+   'PYMODULE'),
+  ('pygments.formatters.terminal256',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\formatters\\terminal256.py',
+   'PYMODULE'),
+  ('pygments.lexer',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexer.py',
+   'PYMODULE'),
+  ('pygments.lexers',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\__init__.py',
+   'PYMODULE'),
+  ('pygments.lexers._ada_builtins',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\_ada_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._asy_builtins',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\_asy_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._cl_builtins',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\_cl_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._cocoa_builtins',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\_cocoa_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._csound_builtins',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\_csound_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._css_builtins',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\_css_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._julia_builtins',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\_julia_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._lasso_builtins',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\_lasso_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._lilypond_builtins',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\_lilypond_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._lua_builtins',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\_lua_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._luau_builtins',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\_luau_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._mapping',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\_mapping.py',
+   'PYMODULE'),
+  ('pygments.lexers._mql_builtins',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\_mql_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._mysql_builtins',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\_mysql_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._openedge_builtins',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\_openedge_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._php_builtins',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\_php_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._postgres_builtins',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\_postgres_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._qlik_builtins',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\_qlik_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._scheme_builtins',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\_scheme_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._scilab_builtins',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\_scilab_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._sourcemod_builtins',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\_sourcemod_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._stan_builtins',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\_stan_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._stata_builtins',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\_stata_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._tsql_builtins',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\_tsql_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._usd_builtins',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\_usd_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._vbscript_builtins',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\_vbscript_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._vim_builtins',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\_vim_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers.actionscript',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\actionscript.py',
+   'PYMODULE'),
+  ('pygments.lexers.ada',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\ada.py',
+   'PYMODULE'),
+  ('pygments.lexers.agile',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\agile.py',
+   'PYMODULE'),
+  ('pygments.lexers.algebra',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\algebra.py',
+   'PYMODULE'),
+  ('pygments.lexers.ambient',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\ambient.py',
+   'PYMODULE'),
+  ('pygments.lexers.amdgpu',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\amdgpu.py',
+   'PYMODULE'),
+  ('pygments.lexers.ampl',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\ampl.py',
+   'PYMODULE'),
+  ('pygments.lexers.apdlexer',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\apdlexer.py',
+   'PYMODULE'),
+  ('pygments.lexers.apl',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\apl.py',
+   'PYMODULE'),
+  ('pygments.lexers.archetype',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\archetype.py',
+   'PYMODULE'),
+  ('pygments.lexers.arrow',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\arrow.py',
+   'PYMODULE'),
+  ('pygments.lexers.arturo',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\arturo.py',
+   'PYMODULE'),
+  ('pygments.lexers.asc',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\asc.py',
+   'PYMODULE'),
+  ('pygments.lexers.asm',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\asm.py',
+   'PYMODULE'),
+  ('pygments.lexers.asn1',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\asn1.py',
+   'PYMODULE'),
+  ('pygments.lexers.automation',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\automation.py',
+   'PYMODULE'),
+  ('pygments.lexers.bare',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\bare.py',
+   'PYMODULE'),
+  ('pygments.lexers.basic',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\basic.py',
+   'PYMODULE'),
+  ('pygments.lexers.bdd',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\bdd.py',
+   'PYMODULE'),
+  ('pygments.lexers.berry',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\berry.py',
+   'PYMODULE'),
+  ('pygments.lexers.bibtex',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\bibtex.py',
+   'PYMODULE'),
+  ('pygments.lexers.blueprint',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\blueprint.py',
+   'PYMODULE'),
+  ('pygments.lexers.boa',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\boa.py',
+   'PYMODULE'),
+  ('pygments.lexers.bqn',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\bqn.py',
+   'PYMODULE'),
+  ('pygments.lexers.business',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\business.py',
+   'PYMODULE'),
+  ('pygments.lexers.c_cpp',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\c_cpp.py',
+   'PYMODULE'),
+  ('pygments.lexers.c_like',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\c_like.py',
+   'PYMODULE'),
+  ('pygments.lexers.capnproto',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\capnproto.py',
+   'PYMODULE'),
+  ('pygments.lexers.carbon',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\carbon.py',
+   'PYMODULE'),
+  ('pygments.lexers.cddl',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\cddl.py',
+   'PYMODULE'),
+  ('pygments.lexers.chapel',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\chapel.py',
+   'PYMODULE'),
+  ('pygments.lexers.clean',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\clean.py',
+   'PYMODULE'),
+  ('pygments.lexers.comal',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\comal.py',
+   'PYMODULE'),
+  ('pygments.lexers.compiled',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\compiled.py',
+   'PYMODULE'),
+  ('pygments.lexers.configs',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\configs.py',
+   'PYMODULE'),
+  ('pygments.lexers.console',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\console.py',
+   'PYMODULE'),
+  ('pygments.lexers.cplint',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\cplint.py',
+   'PYMODULE'),
+  ('pygments.lexers.crystal',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\crystal.py',
+   'PYMODULE'),
+  ('pygments.lexers.csound',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\csound.py',
+   'PYMODULE'),
+  ('pygments.lexers.css',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\css.py',
+   'PYMODULE'),
+  ('pygments.lexers.d',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\d.py',
+   'PYMODULE'),
+  ('pygments.lexers.dalvik',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\dalvik.py',
+   'PYMODULE'),
+  ('pygments.lexers.data',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\data.py',
+   'PYMODULE'),
+  ('pygments.lexers.dax',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\dax.py',
+   'PYMODULE'),
+  ('pygments.lexers.devicetree',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\devicetree.py',
+   'PYMODULE'),
+  ('pygments.lexers.diff',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\diff.py',
+   'PYMODULE'),
+  ('pygments.lexers.dns',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\dns.py',
+   'PYMODULE'),
+  ('pygments.lexers.dotnet',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\dotnet.py',
+   'PYMODULE'),
+  ('pygments.lexers.dsls',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\dsls.py',
+   'PYMODULE'),
+  ('pygments.lexers.dylan',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\dylan.py',
+   'PYMODULE'),
+  ('pygments.lexers.ecl',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\ecl.py',
+   'PYMODULE'),
+  ('pygments.lexers.eiffel',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\eiffel.py',
+   'PYMODULE'),
+  ('pygments.lexers.elm',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\elm.py',
+   'PYMODULE'),
+  ('pygments.lexers.elpi',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\elpi.py',
+   'PYMODULE'),
+  ('pygments.lexers.email',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\email.py',
+   'PYMODULE'),
+  ('pygments.lexers.erlang',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\erlang.py',
+   'PYMODULE'),
+  ('pygments.lexers.esoteric',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\esoteric.py',
+   'PYMODULE'),
+  ('pygments.lexers.ezhil',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\ezhil.py',
+   'PYMODULE'),
+  ('pygments.lexers.factor',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\factor.py',
+   'PYMODULE'),
+  ('pygments.lexers.fantom',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\fantom.py',
+   'PYMODULE'),
+  ('pygments.lexers.felix',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\felix.py',
+   'PYMODULE'),
+  ('pygments.lexers.fift',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\fift.py',
+   'PYMODULE'),
+  ('pygments.lexers.floscript',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\floscript.py',
+   'PYMODULE'),
+  ('pygments.lexers.forth',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\forth.py',
+   'PYMODULE'),
+  ('pygments.lexers.fortran',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\fortran.py',
+   'PYMODULE'),
+  ('pygments.lexers.foxpro',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\foxpro.py',
+   'PYMODULE'),
+  ('pygments.lexers.freefem',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\freefem.py',
+   'PYMODULE'),
+  ('pygments.lexers.func',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\func.py',
+   'PYMODULE'),
+  ('pygments.lexers.functional',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\functional.py',
+   'PYMODULE'),
+  ('pygments.lexers.futhark',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\futhark.py',
+   'PYMODULE'),
+  ('pygments.lexers.gcodelexer',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\gcodelexer.py',
+   'PYMODULE'),
+  ('pygments.lexers.gdscript',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\gdscript.py',
+   'PYMODULE'),
+  ('pygments.lexers.go',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\go.py',
+   'PYMODULE'),
+  ('pygments.lexers.grammar_notation',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\grammar_notation.py',
+   'PYMODULE'),
+  ('pygments.lexers.graph',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\graph.py',
+   'PYMODULE'),
+  ('pygments.lexers.graphics',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\graphics.py',
+   'PYMODULE'),
+  ('pygments.lexers.graphql',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\graphql.py',
+   'PYMODULE'),
+  ('pygments.lexers.graphviz',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\graphviz.py',
+   'PYMODULE'),
+  ('pygments.lexers.gsql',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\gsql.py',
+   'PYMODULE'),
+  ('pygments.lexers.haskell',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\haskell.py',
+   'PYMODULE'),
+  ('pygments.lexers.haxe',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\haxe.py',
+   'PYMODULE'),
+  ('pygments.lexers.hdl',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\hdl.py',
+   'PYMODULE'),
+  ('pygments.lexers.hexdump',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\hexdump.py',
+   'PYMODULE'),
+  ('pygments.lexers.html',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\html.py',
+   'PYMODULE'),
+  ('pygments.lexers.idl',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\idl.py',
+   'PYMODULE'),
+  ('pygments.lexers.igor',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\igor.py',
+   'PYMODULE'),
+  ('pygments.lexers.inferno',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\inferno.py',
+   'PYMODULE'),
+  ('pygments.lexers.installers',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\installers.py',
+   'PYMODULE'),
+  ('pygments.lexers.int_fiction',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\int_fiction.py',
+   'PYMODULE'),
+  ('pygments.lexers.iolang',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\iolang.py',
+   'PYMODULE'),
+  ('pygments.lexers.j',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\j.py',
+   'PYMODULE'),
+  ('pygments.lexers.javascript',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\javascript.py',
+   'PYMODULE'),
+  ('pygments.lexers.jmespath',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\jmespath.py',
+   'PYMODULE'),
+  ('pygments.lexers.jslt',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\jslt.py',
+   'PYMODULE'),
+  ('pygments.lexers.jsonnet',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\jsonnet.py',
+   'PYMODULE'),
+  ('pygments.lexers.jsx',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\jsx.py',
+   'PYMODULE'),
+  ('pygments.lexers.julia',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\julia.py',
+   'PYMODULE'),
+  ('pygments.lexers.jvm',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\jvm.py',
+   'PYMODULE'),
+  ('pygments.lexers.kuin',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\kuin.py',
+   'PYMODULE'),
+  ('pygments.lexers.kusto',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\kusto.py',
+   'PYMODULE'),
+  ('pygments.lexers.ldap',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\ldap.py',
+   'PYMODULE'),
+  ('pygments.lexers.lean',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\lean.py',
+   'PYMODULE'),
+  ('pygments.lexers.lilypond',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\lilypond.py',
+   'PYMODULE'),
+  ('pygments.lexers.lisp',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\lisp.py',
+   'PYMODULE'),
+  ('pygments.lexers.macaulay2',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\macaulay2.py',
+   'PYMODULE'),
+  ('pygments.lexers.make',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\make.py',
+   'PYMODULE'),
+  ('pygments.lexers.markup',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\markup.py',
+   'PYMODULE'),
+  ('pygments.lexers.math',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\math.py',
+   'PYMODULE'),
+  ('pygments.lexers.matlab',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\matlab.py',
+   'PYMODULE'),
+  ('pygments.lexers.maxima',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\maxima.py',
+   'PYMODULE'),
+  ('pygments.lexers.meson',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\meson.py',
+   'PYMODULE'),
+  ('pygments.lexers.mime',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\mime.py',
+   'PYMODULE'),
+  ('pygments.lexers.minecraft',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\minecraft.py',
+   'PYMODULE'),
+  ('pygments.lexers.mips',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\mips.py',
+   'PYMODULE'),
+  ('pygments.lexers.ml',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\ml.py',
+   'PYMODULE'),
+  ('pygments.lexers.modeling',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\modeling.py',
+   'PYMODULE'),
+  ('pygments.lexers.modula2',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\modula2.py',
+   'PYMODULE'),
+  ('pygments.lexers.mojo',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\mojo.py',
+   'PYMODULE'),
+  ('pygments.lexers.monte',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\monte.py',
+   'PYMODULE'),
+  ('pygments.lexers.mosel',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\mosel.py',
+   'PYMODULE'),
+  ('pygments.lexers.ncl',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\ncl.py',
+   'PYMODULE'),
+  ('pygments.lexers.nimrod',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\nimrod.py',
+   'PYMODULE'),
+  ('pygments.lexers.nit',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\nit.py',
+   'PYMODULE'),
+  ('pygments.lexers.nix',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\nix.py',
+   'PYMODULE'),
+  ('pygments.lexers.oberon',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\oberon.py',
+   'PYMODULE'),
+  ('pygments.lexers.objective',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\objective.py',
+   'PYMODULE'),
+  ('pygments.lexers.ooc',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\ooc.py',
+   'PYMODULE'),
+  ('pygments.lexers.openscad',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\openscad.py',
+   'PYMODULE'),
+  ('pygments.lexers.other',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\other.py',
+   'PYMODULE'),
+  ('pygments.lexers.parasail',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\parasail.py',
+   'PYMODULE'),
+  ('pygments.lexers.parsers',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\parsers.py',
+   'PYMODULE'),
+  ('pygments.lexers.pascal',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\pascal.py',
+   'PYMODULE'),
+  ('pygments.lexers.pawn',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\pawn.py',
+   'PYMODULE'),
+  ('pygments.lexers.perl',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\perl.py',
+   'PYMODULE'),
+  ('pygments.lexers.phix',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\phix.py',
+   'PYMODULE'),
+  ('pygments.lexers.php',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\php.py',
+   'PYMODULE'),
+  ('pygments.lexers.pointless',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\pointless.py',
+   'PYMODULE'),
+  ('pygments.lexers.pony',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\pony.py',
+   'PYMODULE'),
+  ('pygments.lexers.praat',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\praat.py',
+   'PYMODULE'),
+  ('pygments.lexers.procfile',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\procfile.py',
+   'PYMODULE'),
+  ('pygments.lexers.prolog',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\prolog.py',
+   'PYMODULE'),
+  ('pygments.lexers.promql',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\promql.py',
+   'PYMODULE'),
+  ('pygments.lexers.prql',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\prql.py',
+   'PYMODULE'),
+  ('pygments.lexers.ptx',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\ptx.py',
+   'PYMODULE'),
+  ('pygments.lexers.python',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\python.py',
+   'PYMODULE'),
+  ('pygments.lexers.q',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\q.py',
+   'PYMODULE'),
+  ('pygments.lexers.qlik',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\qlik.py',
+   'PYMODULE'),
+  ('pygments.lexers.qvt',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\qvt.py',
+   'PYMODULE'),
+  ('pygments.lexers.r',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\r.py',
+   'PYMODULE'),
+  ('pygments.lexers.rdf',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\rdf.py',
+   'PYMODULE'),
+  ('pygments.lexers.rebol',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\rebol.py',
+   'PYMODULE'),
+  ('pygments.lexers.resource',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\resource.py',
+   'PYMODULE'),
+  ('pygments.lexers.ride',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\ride.py',
+   'PYMODULE'),
+  ('pygments.lexers.rita',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\rita.py',
+   'PYMODULE'),
+  ('pygments.lexers.rnc',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\rnc.py',
+   'PYMODULE'),
+  ('pygments.lexers.roboconf',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\roboconf.py',
+   'PYMODULE'),
+  ('pygments.lexers.robotframework',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\robotframework.py',
+   'PYMODULE'),
+  ('pygments.lexers.ruby',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\ruby.py',
+   'PYMODULE'),
+  ('pygments.lexers.rust',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\rust.py',
+   'PYMODULE'),
+  ('pygments.lexers.sas',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\sas.py',
+   'PYMODULE'),
+  ('pygments.lexers.savi',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\savi.py',
+   'PYMODULE'),
+  ('pygments.lexers.scdoc',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\scdoc.py',
+   'PYMODULE'),
+  ('pygments.lexers.scripting',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\scripting.py',
+   'PYMODULE'),
+  ('pygments.lexers.sgf',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\sgf.py',
+   'PYMODULE'),
+  ('pygments.lexers.shell',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\shell.py',
+   'PYMODULE'),
+  ('pygments.lexers.sieve',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\sieve.py',
+   'PYMODULE'),
+  ('pygments.lexers.slash',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\slash.py',
+   'PYMODULE'),
+  ('pygments.lexers.smalltalk',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\smalltalk.py',
+   'PYMODULE'),
+  ('pygments.lexers.smithy',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\smithy.py',
+   'PYMODULE'),
+  ('pygments.lexers.smv',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\smv.py',
+   'PYMODULE'),
+  ('pygments.lexers.snobol',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\snobol.py',
+   'PYMODULE'),
+  ('pygments.lexers.solidity',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\solidity.py',
+   'PYMODULE'),
+  ('pygments.lexers.soong',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\soong.py',
+   'PYMODULE'),
+  ('pygments.lexers.sophia',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\sophia.py',
+   'PYMODULE'),
+  ('pygments.lexers.special',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\special.py',
+   'PYMODULE'),
+  ('pygments.lexers.spice',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\spice.py',
+   'PYMODULE'),
+  ('pygments.lexers.sql',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\sql.py',
+   'PYMODULE'),
+  ('pygments.lexers.srcinfo',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\srcinfo.py',
+   'PYMODULE'),
+  ('pygments.lexers.stata',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\stata.py',
+   'PYMODULE'),
+  ('pygments.lexers.supercollider',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\supercollider.py',
+   'PYMODULE'),
+  ('pygments.lexers.tact',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\tact.py',
+   'PYMODULE'),
+  ('pygments.lexers.tal',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\tal.py',
+   'PYMODULE'),
+  ('pygments.lexers.tcl',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\tcl.py',
+   'PYMODULE'),
+  ('pygments.lexers.teal',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\teal.py',
+   'PYMODULE'),
+  ('pygments.lexers.templates',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\templates.py',
+   'PYMODULE'),
+  ('pygments.lexers.teraterm',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\teraterm.py',
+   'PYMODULE'),
+  ('pygments.lexers.testing',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\testing.py',
+   'PYMODULE'),
+  ('pygments.lexers.text',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\text.py',
+   'PYMODULE'),
+  ('pygments.lexers.textedit',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\textedit.py',
+   'PYMODULE'),
+  ('pygments.lexers.textfmts',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\textfmts.py',
+   'PYMODULE'),
+  ('pygments.lexers.theorem',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\theorem.py',
+   'PYMODULE'),
+  ('pygments.lexers.thingsdb',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\thingsdb.py',
+   'PYMODULE'),
+  ('pygments.lexers.tlb',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\tlb.py',
+   'PYMODULE'),
+  ('pygments.lexers.tls',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\tls.py',
+   'PYMODULE'),
+  ('pygments.lexers.tnt',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\tnt.py',
+   'PYMODULE'),
+  ('pygments.lexers.trafficscript',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\trafficscript.py',
+   'PYMODULE'),
+  ('pygments.lexers.typoscript',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\typoscript.py',
+   'PYMODULE'),
+  ('pygments.lexers.typst',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\typst.py',
+   'PYMODULE'),
+  ('pygments.lexers.ul4',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\ul4.py',
+   'PYMODULE'),
+  ('pygments.lexers.unicon',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\unicon.py',
+   'PYMODULE'),
+  ('pygments.lexers.urbi',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\urbi.py',
+   'PYMODULE'),
+  ('pygments.lexers.usd',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\usd.py',
+   'PYMODULE'),
+  ('pygments.lexers.varnish',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\varnish.py',
+   'PYMODULE'),
+  ('pygments.lexers.verification',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\verification.py',
+   'PYMODULE'),
+  ('pygments.lexers.verifpal',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\verifpal.py',
+   'PYMODULE'),
+  ('pygments.lexers.vip',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\vip.py',
+   'PYMODULE'),
+  ('pygments.lexers.vyper',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\vyper.py',
+   'PYMODULE'),
+  ('pygments.lexers.web',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\web.py',
+   'PYMODULE'),
+  ('pygments.lexers.webassembly',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\webassembly.py',
+   'PYMODULE'),
+  ('pygments.lexers.webidl',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\webidl.py',
+   'PYMODULE'),
+  ('pygments.lexers.webmisc',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\webmisc.py',
+   'PYMODULE'),
+  ('pygments.lexers.wgsl',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\wgsl.py',
+   'PYMODULE'),
+  ('pygments.lexers.whiley',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\whiley.py',
+   'PYMODULE'),
+  ('pygments.lexers.wowtoc',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\wowtoc.py',
+   'PYMODULE'),
+  ('pygments.lexers.wren',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\wren.py',
+   'PYMODULE'),
+  ('pygments.lexers.x10',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\x10.py',
+   'PYMODULE'),
+  ('pygments.lexers.xorg',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\xorg.py',
+   'PYMODULE'),
+  ('pygments.lexers.yang',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\yang.py',
+   'PYMODULE'),
+  ('pygments.lexers.yara',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\yara.py',
+   'PYMODULE'),
+  ('pygments.lexers.zig',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\lexers\\zig.py',
+   'PYMODULE'),
+  ('pygments.modeline',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\modeline.py',
+   'PYMODULE'),
+  ('pygments.plugin',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\plugin.py',
+   'PYMODULE'),
+  ('pygments.regexopt',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\regexopt.py',
+   'PYMODULE'),
+  ('pygments.scanner',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\scanner.py',
+   'PYMODULE'),
+  ('pygments.style',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\style.py',
+   'PYMODULE'),
+  ('pygments.styles',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\styles\\__init__.py',
+   'PYMODULE'),
+  ('pygments.styles._mapping',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\styles\\_mapping.py',
+   'PYMODULE'),
+  ('pygments.styles.abap',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\styles\\abap.py',
+   'PYMODULE'),
+  ('pygments.styles.algol',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\styles\\algol.py',
+   'PYMODULE'),
+  ('pygments.styles.algol_nu',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\styles\\algol_nu.py',
+   'PYMODULE'),
+  ('pygments.styles.arduino',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\styles\\arduino.py',
+   'PYMODULE'),
+  ('pygments.styles.autumn',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\styles\\autumn.py',
+   'PYMODULE'),
+  ('pygments.styles.borland',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\styles\\borland.py',
+   'PYMODULE'),
+  ('pygments.styles.bw',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\styles\\bw.py',
+   'PYMODULE'),
+  ('pygments.styles.coffee',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\styles\\coffee.py',
+   'PYMODULE'),
+  ('pygments.styles.colorful',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\styles\\colorful.py',
+   'PYMODULE'),
+  ('pygments.styles.default',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\styles\\default.py',
+   'PYMODULE'),
+  ('pygments.styles.dracula',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\styles\\dracula.py',
+   'PYMODULE'),
+  ('pygments.styles.emacs',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\styles\\emacs.py',
+   'PYMODULE'),
+  ('pygments.styles.friendly',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\styles\\friendly.py',
+   'PYMODULE'),
+  ('pygments.styles.friendly_grayscale',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\styles\\friendly_grayscale.py',
+   'PYMODULE'),
+  ('pygments.styles.fruity',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\styles\\fruity.py',
+   'PYMODULE'),
+  ('pygments.styles.gh_dark',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\styles\\gh_dark.py',
+   'PYMODULE'),
+  ('pygments.styles.gruvbox',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\styles\\gruvbox.py',
+   'PYMODULE'),
+  ('pygments.styles.igor',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\styles\\igor.py',
+   'PYMODULE'),
+  ('pygments.styles.inkpot',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\styles\\inkpot.py',
+   'PYMODULE'),
+  ('pygments.styles.lightbulb',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\styles\\lightbulb.py',
+   'PYMODULE'),
+  ('pygments.styles.lilypond',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\styles\\lilypond.py',
+   'PYMODULE'),
+  ('pygments.styles.lovelace',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\styles\\lovelace.py',
+   'PYMODULE'),
+  ('pygments.styles.manni',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\styles\\manni.py',
+   'PYMODULE'),
+  ('pygments.styles.material',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\styles\\material.py',
+   'PYMODULE'),
+  ('pygments.styles.monokai',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\styles\\monokai.py',
+   'PYMODULE'),
+  ('pygments.styles.murphy',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\styles\\murphy.py',
+   'PYMODULE'),
+  ('pygments.styles.native',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\styles\\native.py',
+   'PYMODULE'),
+  ('pygments.styles.nord',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\styles\\nord.py',
+   'PYMODULE'),
+  ('pygments.styles.onedark',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\styles\\onedark.py',
+   'PYMODULE'),
+  ('pygments.styles.paraiso_dark',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\styles\\paraiso_dark.py',
+   'PYMODULE'),
+  ('pygments.styles.paraiso_light',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\styles\\paraiso_light.py',
+   'PYMODULE'),
+  ('pygments.styles.pastie',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\styles\\pastie.py',
+   'PYMODULE'),
+  ('pygments.styles.perldoc',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\styles\\perldoc.py',
+   'PYMODULE'),
+  ('pygments.styles.rainbow_dash',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\styles\\rainbow_dash.py',
+   'PYMODULE'),
+  ('pygments.styles.rrt',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\styles\\rrt.py',
+   'PYMODULE'),
+  ('pygments.styles.sas',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\styles\\sas.py',
+   'PYMODULE'),
+  ('pygments.styles.solarized',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\styles\\solarized.py',
+   'PYMODULE'),
+  ('pygments.styles.staroffice',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\styles\\staroffice.py',
+   'PYMODULE'),
+  ('pygments.styles.stata_dark',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\styles\\stata_dark.py',
+   'PYMODULE'),
+  ('pygments.styles.stata_light',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\styles\\stata_light.py',
+   'PYMODULE'),
+  ('pygments.styles.tango',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\styles\\tango.py',
+   'PYMODULE'),
+  ('pygments.styles.trac',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\styles\\trac.py',
+   'PYMODULE'),
+  ('pygments.styles.vim',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\styles\\vim.py',
+   'PYMODULE'),
+  ('pygments.styles.vs',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\styles\\vs.py',
+   'PYMODULE'),
+  ('pygments.styles.xcode',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\styles\\xcode.py',
+   'PYMODULE'),
+  ('pygments.styles.zenburn',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\styles\\zenburn.py',
+   'PYMODULE'),
+  ('pygments.token',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\token.py',
+   'PYMODULE'),
+  ('pygments.unistring',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\unistring.py',
+   'PYMODULE'),
+  ('pygments.util',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pygments\\util.py',
+   'PYMODULE'),
+  ('queue',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\queue.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\quopri.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\random.py',
+   'PYMODULE'),
+  ('rich',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rich\\__init__.py',
+   'PYMODULE'),
+  ('rich.__main__',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rich\\__main__.py',
+   'PYMODULE'),
+  ('rich._cell_widths',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rich\\_cell_widths.py',
+   'PYMODULE'),
+  ('rich._emoji_codes',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rich\\_emoji_codes.py',
+   'PYMODULE'),
+  ('rich._emoji_replace',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rich\\_emoji_replace.py',
+   'PYMODULE'),
+  ('rich._export_format',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rich\\_export_format.py',
+   'PYMODULE'),
+  ('rich._extension',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rich\\_extension.py',
+   'PYMODULE'),
+  ('rich._fileno',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rich\\_fileno.py',
+   'PYMODULE'),
+  ('rich._inspect',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rich\\_inspect.py',
+   'PYMODULE'),
+  ('rich._log_render',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rich\\_log_render.py',
+   'PYMODULE'),
+  ('rich._loop',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rich\\_loop.py',
+   'PYMODULE'),
+  ('rich._null_file',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rich\\_null_file.py',
+   'PYMODULE'),
+  ('rich._palettes',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rich\\_palettes.py',
+   'PYMODULE'),
+  ('rich._pick',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rich\\_pick.py',
+   'PYMODULE'),
+  ('rich._ratio',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rich\\_ratio.py',
+   'PYMODULE'),
+  ('rich._spinners',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rich\\_spinners.py',
+   'PYMODULE'),
+  ('rich._stack',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rich\\_stack.py',
+   'PYMODULE'),
+  ('rich._timer',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rich\\_timer.py',
+   'PYMODULE'),
+  ('rich._win32_console',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rich\\_win32_console.py',
+   'PYMODULE'),
+  ('rich._windows',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rich\\_windows.py',
+   'PYMODULE'),
+  ('rich._windows_renderer',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rich\\_windows_renderer.py',
+   'PYMODULE'),
+  ('rich._wrap',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rich\\_wrap.py',
+   'PYMODULE'),
+  ('rich.abc',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rich\\abc.py',
+   'PYMODULE'),
+  ('rich.align',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rich\\align.py',
+   'PYMODULE'),
+  ('rich.ansi',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rich\\ansi.py',
+   'PYMODULE'),
+  ('rich.box',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rich\\box.py',
+   'PYMODULE'),
+  ('rich.cells',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rich\\cells.py',
+   'PYMODULE'),
+  ('rich.color',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rich\\color.py',
+   'PYMODULE'),
+  ('rich.color_triplet',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rich\\color_triplet.py',
+   'PYMODULE'),
+  ('rich.columns',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rich\\columns.py',
+   'PYMODULE'),
+  ('rich.console',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rich\\console.py',
+   'PYMODULE'),
+  ('rich.constrain',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rich\\constrain.py',
+   'PYMODULE'),
+  ('rich.containers',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rich\\containers.py',
+   'PYMODULE'),
+  ('rich.control',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rich\\control.py',
+   'PYMODULE'),
+  ('rich.default_styles',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rich\\default_styles.py',
+   'PYMODULE'),
+  ('rich.emoji',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rich\\emoji.py',
+   'PYMODULE'),
+  ('rich.errors',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rich\\errors.py',
+   'PYMODULE'),
+  ('rich.file_proxy',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rich\\file_proxy.py',
+   'PYMODULE'),
+  ('rich.highlighter',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rich\\highlighter.py',
+   'PYMODULE'),
+  ('rich.json',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rich\\json.py',
+   'PYMODULE'),
+  ('rich.jupyter',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rich\\jupyter.py',
+   'PYMODULE'),
+  ('rich.live',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rich\\live.py',
+   'PYMODULE'),
+  ('rich.live_render',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rich\\live_render.py',
+   'PYMODULE'),
+  ('rich.markdown',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rich\\markdown.py',
+   'PYMODULE'),
+  ('rich.markup',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rich\\markup.py',
+   'PYMODULE'),
+  ('rich.measure',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rich\\measure.py',
+   'PYMODULE'),
+  ('rich.padding',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rich\\padding.py',
+   'PYMODULE'),
+  ('rich.pager',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rich\\pager.py',
+   'PYMODULE'),
+  ('rich.palette',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rich\\palette.py',
+   'PYMODULE'),
+  ('rich.panel',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rich\\panel.py',
+   'PYMODULE'),
+  ('rich.pretty',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rich\\pretty.py',
+   'PYMODULE'),
+  ('rich.protocol',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rich\\protocol.py',
+   'PYMODULE'),
+  ('rich.region',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rich\\region.py',
+   'PYMODULE'),
+  ('rich.repr',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rich\\repr.py',
+   'PYMODULE'),
+  ('rich.rule',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rich\\rule.py',
+   'PYMODULE'),
+  ('rich.scope',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rich\\scope.py',
+   'PYMODULE'),
+  ('rich.screen',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rich\\screen.py',
+   'PYMODULE'),
+  ('rich.segment',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rich\\segment.py',
+   'PYMODULE'),
+  ('rich.spinner',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rich\\spinner.py',
+   'PYMODULE'),
+  ('rich.status',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rich\\status.py',
+   'PYMODULE'),
+  ('rich.style',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rich\\style.py',
+   'PYMODULE'),
+  ('rich.styled',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rich\\styled.py',
+   'PYMODULE'),
+  ('rich.syntax',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rich\\syntax.py',
+   'PYMODULE'),
+  ('rich.table',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rich\\table.py',
+   'PYMODULE'),
+  ('rich.terminal_theme',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rich\\terminal_theme.py',
+   'PYMODULE'),
+  ('rich.text',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rich\\text.py',
+   'PYMODULE'),
+  ('rich.theme',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rich\\theme.py',
+   'PYMODULE'),
+  ('rich.themes',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rich\\themes.py',
+   'PYMODULE'),
+  ('rich.traceback',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rich\\traceback.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\selectors.py',
+   'PYMODULE'),
+  ('shlex',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\shlex.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\shutil.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\signal.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\socket.py',
+   'PYMODULE'),
+  ('socketserver',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\socketserver.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ssl.py',
+   'PYMODULE'),
+  ('statistics',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\statistics.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\string.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\stringprep.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\subprocess.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\sysconfig\\__init__.py',
+   'PYMODULE'),
+  ('tabulate',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\tabulate\\__init__.py',
+   'PYMODULE'),
+  ('tabulate.version',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\tabulate\\version.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\tarfile.py',
+   'PYMODULE'),
+  ('team', 'C:\\python RPG\\RPGgame\\codes\\team.py', 'PYMODULE'),
+  ('tempfile',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\tempfile.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\textwrap.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\threading.py',
+   'PYMODULE'),
+  ('token',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\token.py',
+   'PYMODULE'),
+  ('tokenize',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\tokenize.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('tty',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\tty.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\typing.py',
+   'PYMODULE'),
+  ('typing_extensions',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\typing_extensions.py',
+   'PYMODULE'),
+  ('urllib',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('utils', 'C:\\python RPG\\RPGgame\\codes\\utils.py', 'PYMODULE'),
+  ('webbrowser',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\webbrowser.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\zipfile\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\zipfile\\_path\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path.glob',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\zipfile\\_path\\glob.py',
+   'PYMODULE'),
+  ('zipimport',
+   'C:\\Users\\Jovian '
+   'Josh\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\zipimport.py',
+   'PYMODULE')])
